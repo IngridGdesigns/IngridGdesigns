@@ -1,5 +1,7 @@
 ### Hola y bienvenidos, Hi and welcome 👋
 
+- 🔭 I’m currently working on  a portfolio website and collaborating on an open-source project https://github.com/indeedeng/Mariner
+
 <!--
 **IngridGdesigns/IngridGdesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
