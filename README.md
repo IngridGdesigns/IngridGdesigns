@@ -1,6 +1,6 @@
 ### Hola y bienvenidos, Hi and welcome 👋
 
-- 👩🏻‍💻 I’m currently working on a portfolio website and collaborating on an open-source project https://github.com/indeedeng/Mariner
+- 👩🏻‍💻 I’m currently working on an open-source project https://github.com/indeedeng/Mariner
 - 🌱 I’m currently learning about agile software craftmanship reading 📖 "Clean Code"
 - ⚡️ Learning how to mock with [Nock](https://github.com/nock/nock) and [Jest](https://github.com/jestjs/jest)
 
