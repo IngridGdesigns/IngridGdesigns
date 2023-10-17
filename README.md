@@ -1,9 +1,10 @@
 ### Hola y bienvenidos, Hi and welcome 👋
 
-- 👩🏻‍💻 I’m currently working on an open-source project https://github.com/indeedeng/Mariner
+- 👩🏻‍💻 Looking for my next role in Software Engineering
 - 🌱 I’m currently learning about agile software craftmanship reading 📖 "Clean Code"
 - ⚡️ Learning how to mock with [Nock](https://github.com/nock/nock) and [Jest](https://github.com/jestjs/jest)....While practicing 
 code challenges and algorithms
+- 🔭 I’m currently working on improving my [coding skills](https://github.com/IngridGdesigns/typescript-code-challenges) in TypeScript
 
 <!--
 **IngridGdesigns/IngridGdesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
