@@ -4,7 +4,7 @@
 
 🔥 My curiosity drives me to constantly learn and build, I value the importance of critical thinking and effective communication in each project. I believe that differences can be transformed into fruitful collaborations when there is open communication
 
-🔎 
+🔎 For my next role I love to work with a team who enjoys code pairing, communicating and values code reviews and transparency. I want to find a company that believes in diversity and inclusion and who supports their staff to continue to grow and learn. 
 
 ### What I have been up to..
 - 🌱 I’m currently taking a refresher course with [Scrimba](https://scrimba.com/learn/learnreact) on ReactJS
