@@ -4,13 +4,15 @@
 
 🔥 My curiosity drives me to constantly learn and build, I value the importance of critical thinking and effective communication in each project. I believe that differences can be transformed into fruitful collaborations when there is open communication
 
-🔎 For my next role I love to work with a team who enjoys code pairing, communicating and values code reviews and transparency. I want to find a company that believes in diversity and inclusion and who supports their staff to continue to grow and learn. 
+🔎 For my next role I would love to work with a team who is diverse, transparent, collaborative and communicative. A team that believes in code pairing and discussing code reviews and who encourages innovation and leadership. I want to find a company that nudges their staff to continue to grow and learn and supports work-life balance. 
 
 ### What I have been up to..
+
 - 🌱 I’m currently taking a refresher course with [Scrimba](https://scrimba.com/learn/learnreact) on ReactJS
 - ⚡️ Learning how to mock with [Nock](https://github.com/nock/nock) and [Jest](https://github.com/jestjs/jest)....While practicing 
 code challenges and algorithms
 - 🔭 I’m currently working on improving my [coding skills](https://github.com/IngridGdesigns/typescript-code-challenges) in TypeScript
+- :pie: Getting ready to try out new recipes to bake for the holidays
 
 ### :pancakes: Tech Stack :keyboard:
 
