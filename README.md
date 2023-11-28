@@ -13,16 +13,19 @@
 code challenges and algorithms
 - 🔭 I’m currently working on improving my [coding skills](https://github.com/IngridGdesigns/typescript-code-challenges) in TypeScript
 - :pie: Fun fact: Getting ready to try out new recipes to bake for the holidays
+- 🙌 I'm open to collaborating and building an awesome project or just chatting about ☕ over ☕
 
 ### Let's Connect
 
 <a href="https://www.linkedin.com/in/ingridgarc%C3%ADa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 44px;"/>
 </a>
+
 ### :pancakes: Tech Stack :pancakes:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,graphql,express,jest,github,gitlab,jenkins,postgres,vscode,pug,html,css,ai,ps&perline=12)](https://skillicons.dev)
 
-          
+
+Thanks for stopping by!
 
           
           
