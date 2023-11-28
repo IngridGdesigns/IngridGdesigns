@@ -1,6 +1,12 @@
 ### Hola y bienvenidos, Hi and welcome 👋
 
-- 👩🏻‍💻 Looking for my next role in Software Engineering
+👩🏻‍💻 Ingrid Garcia, a graphic designer who found their calling in Software Engineering
+
+🔥 My curiosity drives me to constantly learn and build, I value the importance of critical thinking and effective communication in each project. I believe that differences can be transformed into fruitful collaborations when there is open communication
+
+🔎 
+
+### What I have been up to..
 - 🌱 I’m currently taking a refresher course with [Scrimba](https://scrimba.com/learn/learnreact) on ReactJS
 - ⚡️ Learning how to mock with [Nock](https://github.com/nock/nock) and [Jest](https://github.com/jestjs/jest)....While practicing 
 code challenges and algorithms
@@ -8,7 +14,7 @@ code challenges and algorithms
 
 ### :pancakes: Tech Stack :keyboard:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,graphql,jest,github,gitlab,jenkins,postgres,vscode,pug,figma,ai,ps,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,graphql,express,jest,github,gitlab,jenkins,postgres,vscode,pug,ai,ps,html,css)](https://skillicons.dev)
 
 
 <!--
