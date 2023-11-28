@@ -1,6 +1,6 @@
 ### Hola y bienvenidos, Hi and welcome 👋
 
-👩🏻‍💻 Ingrid Garcia, a graphic designer who found their calling in Software Engineering
+👩🏻‍💻 I'm a Software Engineer looking for my next role..
 
 🔥 My curiosity drives me to constantly learn and build, I value the importance of critical thinking and effective communication in each project. I believe that differences can be transformed into fruitful collaborations when there is open communication
 
@@ -12,7 +12,7 @@
 - ⚡️ Learning how to mock with [Nock](https://github.com/nock/nock) and [Jest](https://github.com/jestjs/jest)....While practicing 
 code challenges and algorithms
 - 🔭 I’m currently working on improving my [coding skills](https://github.com/IngridGdesigns/typescript-code-challenges) in TypeScript
-- :pie: Getting ready to try out new recipes to bake for the holidays
+- :pie: Fun fact: Getting ready to try out new recipes to bake for the holidays
 
 ### Let's Connect
 
