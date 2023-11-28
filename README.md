@@ -8,7 +8,7 @@ code challenges and algorithms
 
 ### :pancakes: Tech Stack :keyboard:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,graphql,jest,github,gitlab,jenkins,postgres,vscode,pug,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,graphql,jest,github,gitlab,jenkins,postgres,vscode,pug,figma,ai,ps,html,css)](https://skillicons.dev)
 
 
 <!--
