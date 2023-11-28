@@ -6,6 +6,11 @@
 code challenges and algorithms
 - 🔭 I’m currently working on improving my [coding skills](https://github.com/IngridGdesigns/typescript-code-challenges) in TypeScript
 
+### :pancakes: Tech Stack :keyboard:
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,graphql,gitlab,postgres,pug,html,css)](https://skillicons.dev)
+
+
 <!--
 **IngridGdesigns/IngridGdesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
