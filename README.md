@@ -14,7 +14,7 @@ code challenges and algorithms
 
 ### :pancakes: Tech Stack :keyboard:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,graphql,express,jest,github,gitlab,jenkins,postgres,vscode,pug,ai,ps,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,graphql,express,jest,github,gitlab,jenkins,postgres,vscode,pug,html,css,ai,ps&perline=8)](https://skillicons.dev)
 
 
 <!--
