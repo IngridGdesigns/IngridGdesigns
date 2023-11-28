@@ -8,16 +8,13 @@
 
 ### What I have been up to..
 
-🌱 I’m currently taking a refresher course with [Scrimba](https://scrimba.com/learn/learnreact) on ReactJS
-
-⚡️ Learning how to mock with [Nock](https://github.com/nock/nock) and [Jest](https://github.com/jestjs/jest)....While practicing 
+- 🌱 I’m currently taking a refresher course with [Scrimba](https://scrimba.com/learn/learnreact) on ReactJS
+- ⚡️ Learning how to mock with [Nock](https://github.com/nock/nock) and [Jest](https://github.com/jestjs/jest)....While practicing 
 code challenges and algorithms
+- 🔭 I’m currently working on improving my [coding skills](https://github.com/IngridGdesigns/typescript-code-challenges) in TypeScript
+- :pie: Getting ready to try out new recipes to bake for the holidays
 
-🔭 I’m currently working on improving my [coding skills](https://github.com/IngridGdesigns/typescript-code-challenges) in TypeScript
-
-:pie: Getting ready to try out new recipes to bake for the holidays
-
-### :pancakes: Tech Stack :keyboard:
+### :pancakes: Tech Stack :pancakes:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,graphql,express,jest,github,gitlab,jenkins,postgres,vscode,pug,html,css,ai,ps&perline=12)](https://skillicons.dev)
 
