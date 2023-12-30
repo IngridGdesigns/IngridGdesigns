@@ -8,7 +8,7 @@
 
 ### What I have been up to..
 
-- 🌱 I’m currently taking a refresher course with [Scrimba](https://scrimba.com/learn/learnreact) on ReactJS
+- 🌱 I’m currently taking a refresher course with [Scrimba](https://scrimba.com/learn/learnreact) on HTML, CSS, ReactJS...
 - 😄 Building my new portfolio site using NextJS, React and Typescript 
 - ⚡️ Learning how to mock with [Nock](https://github.com/nock/nock) and [Jest](https://github.com/jestjs/jest)....While practicing 
 code challenges and algorithms
