@@ -8,12 +8,11 @@
 
 ### What I have been up to..
 
-- 🌱 I’m currently taking a refresher course with [Scrimba](https://scrimba.com/learn/learnreact) on HTML, CSS, ReactJS...
+- 🌱 I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/learn/learnreact](https://scrimba.com/learn/frontend)) on HTML, CSS, ReactJS...
 - 😄 Building my new portfolio site using NextJS, React and Typescript 
 - ⚡️ Learning how to mock with [Nock](https://github.com/nock/nock) and [Jest](https://github.com/jestjs/jest)....While practicing 
 code challenges and algorithms
 - 🔭 I’m currently working on improving my [coding skills](https://github.com/IngridGdesigns/typescript-code-challenges) in TypeScript
-- :pie: Fun fact: Getting ready to try out new recipes to bake for the holidays
 - 🙌 I'm open to collaborating and building an awesome project or just chatting about ☕ over ☕
 
 ### Let's Connect
