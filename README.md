@@ -9,7 +9,7 @@
 ### What I have been up to..
 
 - 🌱 I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/learn/learnreact](https://scrimba.com/learn/frontend)) on HTML, CSS, ReactJS...
-  - created so far:
+  -  Live sites:
   - [Random password generator](https://createrandom-passwordgenerator.netlify.app/)
   - [Basketball scorecard](https://basketball-scorecard-practice.netlify.app/)
   - [Hometown site](https://visit-guatemala.netlify.app/)
