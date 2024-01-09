@@ -12,6 +12,7 @@
   - created so far:
   - [Random password generator](https://createrandom-passwordgenerator.netlify.app/)
   - [Basketball scorecard](https://basketball-scorecard-practice.netlify.app/)
+  - [Hometown site](https://visit-guatemala.netlify.app/)
 - 😄 Building my new portfolio site using NextJS, React and Typescript 
 - ⚡️ Learning how to mock with [Nock](https://github.com/nock/nock) and [Jest](https://github.com/jestjs/jest)....While practicing 
 code challenges and algorithms
