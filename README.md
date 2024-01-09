@@ -9,6 +9,9 @@
 ### What I have been up to..
 
 - 🌱 I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/learn/learnreact](https://scrimba.com/learn/frontend)) on HTML, CSS, ReactJS...
+  - created so far:
+  - [Random password generator](https://createrandom-passwordgenerator.netlify.app/)
+  - [Basketball scorecard](https://basketball-scorecard-practice.netlify.app/)
 - 😄 Building my new portfolio site using NextJS, React and Typescript 
 - ⚡️ Learning how to mock with [Nock](https://github.com/nock/nock) and [Jest](https://github.com/jestjs/jest)....While practicing 
 code challenges and algorithms
