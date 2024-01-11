@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/learn/learnreact](https://scrimba.com/learn/frontend)) on HTML, CSS, ReactJS...
   -  Live sites:
-  - [Meme Generator using React and Rest API](https://ingridgdesigns.github.io/memeGenerator/)
+  - [Meme Generator using React and Rest API - Work in Progress](https://ingridgdesigns.github.io/memeGenerator/)
   - [Random password generator, HTML/CSS/JavaScript](https://createrandom-passwordgenerator.netlify.app/)
   - [Basketball scorecard, HTML/CSS/JavaScript](https://basketball-scorecard-practice.netlify.app/)
   - [Hometown site, HTML/CSS](https://visit-guatemala.netlify.app/)
