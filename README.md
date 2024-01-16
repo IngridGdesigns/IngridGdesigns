@@ -13,7 +13,6 @@
   - [Random password generator - HTML/CSS/JavaScript](https://createrandom-passwordgenerator.netlify.app/)
   - [Basketball scorecard - HTML/CSS/JavaScript](https://basketball-scorecard-practice.netlify.app/)
   - [Hometown site - HTML/CSS](https://visit-guatemala.netlify.app/)
-  - [Meme Generator - React and REST API - Work in Progress](https://ingridgdesigns.github.io/memeGenerator/)
 - 😄 Building my new portfolio site using NextJS, React and Typescript 
 - ⚡️ Learning how to mock with [Nock](https://github.com/nock/nock) and [Jest](https://github.com/jestjs/jest)....While practicing 
 code challenges and algorithms
