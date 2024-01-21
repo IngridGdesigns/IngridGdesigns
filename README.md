@@ -10,6 +10,7 @@
 
 - 🌱 I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/learn/learnreact](https://scrimba.com/learn/frontend)) on HTML, CSS, ReactJS...
   -  Live sites:
+  - [Add to cart - shopping list app - Firebase/JavaScript/HTML/CSS] (https://add-2-shoppingcart.netlify.app/) 
   - [Random password generator - HTML/CSS/JavaScript](https://createrandom-passwordgenerator.netlify.app/)
   - [Basketball scorecard - HTML/CSS/JavaScript](https://basketball-scorecard-practice.netlify.app/)
   - [Hometown site - HTML/CSS](https://visit-guatemala.netlify.app/)
