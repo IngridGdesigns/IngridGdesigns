@@ -8,13 +8,13 @@
 
 ### What I have been up to..
 
-I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/learn/learnreact](https://scrimba.com/learn/frontend)) on HTML, CSS, ReactJS...
+I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/learn/learnreact](https://scrimba.com/learn/frontend)) on HTML, CSS, JavaScript, Firebase database, ReactJS and have deployed several projects
   
-**Deployed Live Solo project sites:**
+**Deployed Live Solo projects:**
   - [Unit Converter - JavaScript/HTML/CSS](https://conversion-tool.netlify.app/)
   - [Password Generator - HTML/CSS/JavaScript](https://createrandom-passwordgenerator.netlify.app/)
   - [Basketball Scorecard - HTML/CSS/JavaScript](https://basketball-scorecard-practice.netlify.app/)
-  - Not a solo project but added my own features: [Add-2-Cart - Shopping list app - Firebase/JavaScript/HTML/CSS](https://add-2-shoppingcart.netlify.app/)
+  - Not a solo project but added other features: [Add-2-Cart - Shopping list app - Firebase/JavaScript/HTML/CSS](https://add-2-shoppingcart.netlify.app/)
 
 **Coding projects**
 - 😄 Building my new portfolio site using NextJS, React and Typescript 
