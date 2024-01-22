@@ -16,6 +16,7 @@ I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/le
   - [Basketball Scorecard - HTML/CSS/JavaScript](https://basketball-scorecard-practice.netlify.app/)
   - Not a solo project but added my own features: [Add-2-Cart - Shopping list app - Firebase/JavaScript/HTML/CSS](https://add-2-shoppingcart.netlify.app/)
 
+**Coding projects**
 - 😄 Building my new portfolio site using NextJS, React and Typescript 
 - ⚡️ Learning how to mock with [Nock](https://github.com/nock/nock) and [Jest](https://github.com/jestjs/jest)....While practicing 
 code challenges and algorithms
