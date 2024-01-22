@@ -10,7 +10,7 @@
 
 I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/learn/learnreact](https://scrimba.com/learn/frontend)) on HTML, CSS, ReactJS...
   
-**Live Solo project sites:**
+**Deployed Live Solo project sites:**
   - [Unit Converter - JavaScript/HTML/CSS](https://conversion-tool.netlify.app/)
   - [Password Generator - HTML/CSS/JavaScript](https://createrandom-passwordgenerator.netlify.app/)
   - [Basketball Scorecard - HTML/CSS/JavaScript](https://basketball-scorecard-practice.netlify.app/)
