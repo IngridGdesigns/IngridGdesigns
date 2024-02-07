@@ -11,6 +11,8 @@
 I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/learn/learnreact](https://scrimba.com/learn/frontend)) on HTML, CSS, JavaScript, Firebase database, ReactJS and have deployed several projects
   
 **Deployed Live Solo projects:**
+
+  - [Artistgram - JavaScript DOM/HTML/CSS](https://artistgram.netlify.app/)
   - [Unit Converter - JavaScript/HTML/CSS](https://conversion-tool.netlify.app/)
   - [Password Generator - HTML/CSS/JavaScript](https://createrandom-passwordgenerator.netlify.app/)
   - [Basketball Scorecard - HTML/CSS/JavaScript](https://basketball-scorecard-practice.netlify.app/)
