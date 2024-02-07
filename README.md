@@ -13,10 +13,10 @@ I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/le
 **Deployed Live Solo projects:**
 
   - [Artistgram - JavaScript DOM/HTML/CSS](https://artistgram.netlify.app/)
+  - [Endorsements - Firebase/JavaScript/HTML/CSS](https://endorsements-champion.netlify.app/)
   - [Unit Converter - JavaScript/HTML/CSS](https://conversion-tool.netlify.app/)
   - [Password Generator - HTML/CSS/JavaScript](https://createrandom-passwordgenerator.netlify.app/)
   - [Basketball Scorecard - HTML/CSS/JavaScript](https://basketball-scorecard-practice.netlify.app/)
-  - Not a solo project but added other features: [Add-2-Cart - Shopping list app - Firebase/JavaScript/HTML/CSS](https://add-2-shoppingcart.netlify.app/)
 
 **Coding projects**
 - 😄 Building my new portfolio site using NextJS, React and Typescript 
