@@ -13,7 +13,7 @@ I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/le
 **Deployed Live Solo projects:**
 
   - [Ninas Diner - an ordering app using JavaScript DOM/HTML/CSS](https://ninas-diner-orderingapp.netlify.app/)
-  - [Artistgram - a twitter clone using JavaScript DOM/HTML/CSS](https://artistgram.netlify.app/)
+  - [Artistgram - a instagram clone using JavaScript DOM/HTML/CSS](https://artistgram.netlify.app/)
   - [Endorsements - a board to post praise Firebase/JavaScript/HTML/CSS](https://endorsements-champion.netlify.app/)
   - [Unit Converter - a metric/imperial unit converter coded in JavaScript/HTML/CSS](https://conversion-tool.netlify.app/)
   - [Password Generator - HTML/CSS/JavaScript](https://createrandom-passwordgenerator.netlify.app/)
