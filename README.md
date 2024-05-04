@@ -8,6 +8,8 @@
 
 ### What I have been up to..
 
+Working on a [Library Management System app](https://github.com/IngridGdesigns/bibliotheca), using Postgresql, ExpressJS, React and Auth0 for authentication and authorization, it's still a work in progress...
+
 I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/learn/learnreact](https://scrimba.com/learn/frontend)) on HTML, CSS, JavaScript, Firebase database, ReactJS and have deployed several projects
   
 **Deployed Live Solo projects:**
