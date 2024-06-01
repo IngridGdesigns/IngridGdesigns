@@ -14,7 +14,7 @@ I’m currently taking a refresher course with [Scrimba]([https://scrimba.com/le
   
 **Deployed Live Solo projects:**
 
-  - [Color Scheme Generator] - using the Color API to fetch color schemes using fetch API, JavaScript, DOM Manipulation and displaying colors using CSS (https://colour-scheme-generator.netlify.app/)
+  - [Color Scheme Generator] - using the Color API to fetch color schemes using fetch API, JavaScript, DOM Manipulation and displaying colors using CSS](https://colour-scheme-generator.netlify.app/)
   - [Ninas Diner - an ordering app using JavaScript FORMS, MODALS, DOM manipulation, HTML/CSS](https://ninas-diner-orderingapp.netlify.app/)
   - [Artistgram - a instagram clone using JavaScript DOM/HTML/CSS](https://artistgram.netlify.app/)
   - [Endorsements - a board to post praise Firebase/JavaScript/HTML/CSS](https://endorsements-champion.netlify.app/)
