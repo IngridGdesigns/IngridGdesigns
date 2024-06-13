@@ -35,7 +35,7 @@ code challenges and algorithms
 
 ### 🥞 Tech Stack 🥞
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,graphql,express,jest,github,gitlab,jenkins,postgres,vscode,pug,html,css,ai,ps&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,graphql,vite,express,jest,github,gitlab,jenkins,postgres,vscode,pug,html,css,ai,ps&perline=12)](https://skillicons.dev)
 
 
 Thanks for stopping by!
